@@ -9,7 +9,7 @@
 
 # ブックカタリストとは？
 
-https://bookcatalyst.substack.com/about
+https://bookcatalyst.substack.com/
 
 >倉下忠憲（@rashita2）と五藤隆介（@goryugo）による「面白かった本について語るポッドキャスト＆ニュースレターです。
 >
@@ -17,10 +17,11 @@ https://bookcatalyst.substack.com/about
 >
 >1冊の本について語るだけでなく、そこから広がる読書の面白さや本同士の繋がりなど、色々な本の楽しみ方も語っていっています。
 
+（https://bookcatalyst.substack.com/about）
+
 哲学的なこと、脳科学や言語についてなど幅広く知的欲求が刺激される書籍がたくさん紹介されています。  
 ぜひ聞いてみてください。
  
-https://bookcatalyst.substack.com/
 
 # データ
 文字起こしデータはこちらで公開されています。  
